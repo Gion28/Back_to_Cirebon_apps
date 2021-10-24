@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+
+    <string name="login">USER LOGIN</string>
+    <string name="hname">Username</string>
+    <string name="hpass">Password</string>
+    <string name="hconfpass">Confirm Password</string>
+    <string name="blogin">LOGIN</string>
+    <string name="create">Create Account</string>
+    <string name="register">REGISTER</string>
+    <string name="backtologin">Back to Login</string>
+
+    <string name="bwalam">Wisata Alam</string>
+    <string name="alam1">Danau Setu Patok</string>
+    <string name="alam2">Batu Lawang</string>
+    <string name="alam3">Gunung Ciremai</string>
+    <string name="alam4">Telaga Cicerem</string>
+    <string name="alam5">Curug Sempong</string>
+
+    <string name="bwreligi">Wisata Religi</string>
+    <string name="religi1">Keraton Kasepuhan</string>
+    <string name="religi2">Gua Sunyaragi</string>
+    <string name="religi3">Masjid Agung Sang Cipta Rasa</string>
+    <string name="religi4">Gereja Bunda Maria</string>
+    <string name="religi5">Vihara Dewi Welas Asih</string>
+
+    <string name="bwkuliner">Wisata Kuliner</string>
+    <string name="kuliner1">Empal Gentong</string>
+    <string name="kuliner2">Docang</string>
+    <string name="kuliner3">Nasi Lengko</string>
+    <string name="kuliner4">Tahu Gejrot</string>
+    <string name="kuliner5">Sate Kalong</string>
+
+    <string name="setupatok">
+        <p style="text-align: justify">Danau Setu Patok berada di Mundu, Cirebon, Jawa Barat. Tempat ini seringklai ramai dikunjungi wisatawan entah pada hari biasa maupun akhir pekan. Banyak masyarakat menjagokan keindahan tempat wisata ini karena pesona keindahan yang dimiliki.</p><br></br>
+        <p style="text-align: justify">Danau Setu Patok memiliki beberapa fasilitas yang membuat liburan anda semakin nyaman seperti, area parkir yang luas, Musholla, kamar mandi/ toilet umum dan penginapan. Sementara disisi lain, objek wisata ini memiliki Ciwalk atau sebuah area wisata yang berada di tepi waduk.</p><br></br>
+        <p style="text-align: justify">Terdapat pula lintasan ATV, area painball dan lain sebagainya. Anda bisa pula menemukan warung – warung kecil di sekitar lokasi untuk menikmati makanan ketika berkunjung.</p>
+    </string>
+
+    <string name="batulawang">
+        <p style="text-align: justify">Batu Lawang terletak di Desa Cupang, Kecamatan Gempol, Kabupaten Cirebon. Letaknya jauh dari jalan besar sehingga seperti disembunyikan dari keramaian. Letaknya yang tersembunyi ini membuat banyak pengunjung menjuluki tempat wisata ini sebagai harta tersembunyi. Karena memang keindahan di Batu Lawang yang sangat bagus.</p><br></br>
+        <p style="text-align: justify">Batu Lawang dinamakan karena bentuknya secara visual seperti sebuah gerbang. Batu Lawang berarti Batu Pintu yang terinspirasi dari tebing menjulang dengan pahatan alami seperti gerbang. Pahatan alami ini seperti gerbang yang akan terbuka. Pahatan itu terbentuk alami di batu hitam lahar di Batu Lawang.</p>
+    </string>
+
+    <string name="gunungciremai">
+        <p style="text-align: justify">Gunung yang berada di dua wilayah kabupaten, yaitu Kuningan dan Majalengka, memiliki eksotisme dan sisi misterius tersendiri yang menjadikannya menarik untuk dijajaki.</p><br></br>
+        <p style="text-align: justify">Memiliki ketinggian di atas 3,000 mdpl, gunung bertipe Stratovolcano ini menjadi favorit untuk didaki, bukan hanya karena rute yang cukup mudah, terutama yang melalui jalur palutungan, tapi juga karena nuansa alam indah yang bisa kamu lihat di sana.</p><br></br>
+        <p style="text-align: justify">Ada empat jalur pendakian yang ada di Gunung Ciremai. Yakni, Cibunar Linggarjati, Palutungan, Linggasana yang ada di Kabupaten Kuningan dan Apuy di Kabupaten Majalengka.</p>
+    </string>
+
+    <string name="telagacicerem">
+        <p style="text-align: justify">Wisata alam berupa telaga selalu memiliki daya tarik kuat untuk di kunjungi. Tak terkecuali ketika Anda datang ke Situ Cicerem. Situ Cicerem menawarkan keindahan alam yang tidak ada duanya. Pengunjung dapat merasakan kesejukan luar biasa mengingat daerah sekitar lokasi masih sangat asri. Pepohonan rindang di sekeliling membuat Anda tidak akan kepanasan walaupun di siang hari.</p><br></br>
+        <p style="text-align: justify"> Cicerem juga sering dijuluki sebagai telaga biru. Hal itu tidak mengherankan mengingat kejernihan air yang memang datang langsung dari pegunungan. Anda bahkan bisa melihat apapun yang ada di dalam air karena air di Situ Cicerem yang sangat bening sebening kaca. Di lokasi wisata tersebut juga terdapat ratusan ikan warna-warni yang siap menyambut kehadiran wisatawan.</p>
+    </string>
+
+    <string name="curugsempong">
+        <p style="text-align: justify">Curug Sempong sendiri berlokasi di Cisempong, Sidamukti, Kec. Majalengka, Kabupaten Majalengka, Jawa Barat. Berjarak kurang lebih 9 km jika anda berangkan dari pusat kota Majalengka. Anda bisa mengunjungi Air Terjun Curug Sempong dengan menempuh waktu sekitar 30 menit perjalanan menggunakan kendaraan.</p><br></br>
+        <p style="text-align: justify">Wisata Alam Curug Sempong Majalengka buka setiap hari dengan jam operasional mulai dari jam 08.00 – 17.00 WIB. Dapatkan sensasi liburan yang tak terlupakan di Majalengka Jawa Barat dengan pesona keindahan yang ada di Curug Sempong bersama orang tercinta.</p>
+    </string>
+
+    <string name="keratonkasepuhan">
+        <p style="text-align: justify">Keraton Kasepuhan adalah keraton yang terletak di kelurahan Kesepuhan, Lemahwungkuk, Cirebon. Makna di setiap sudut arsitektur keraton ini pun terkenal paling bersejarah. Halaman depan keraton ini dikelilingi tembok bata merah dan terdapat pendopo di dalamnya.</p><br></br>
+        <p style="text-align: justify">Keraton ini memiliki museum yang cukup lengkap dan berisi benda pusaka dan lukisan koleksi kerajaan. Salah satu koleksi yaitu kereta Singa Barong yang merupakan kereta kencana Sunan Gunung Jati. Kereta tersebut saat ini tidak lagi dipergunakan dan hanya dikeluarkan pada tiap 1 Syawal untuk dimandikan.</p><br></br>
+        <p style="text-align: justify">Bagian dalam keraton ini terdiri dari bangunan utama yang berwarna putih. Di dalamnya terdapat ruang tamu, ruang tidur dan singgasana raja.</p>
+    </string>
+
+    <string name="guasunyaragi">
+        <p style="text-align: justify">Gua Sunyaragi atau Taman Sari Sunyaragi merupakan sebuah situs bersejarah di Kota Cirebon yang digunakan oleh para sultan di masa lalu untuk bermeditasi dan mengatur strategi perlawanan terhadap penjajahan Belanda.</p><br></br>
+        <p style="text-align: justify">Menurut buku Purwaka Caruban Nagari yang ditulis oleh Pangeran Kararangen atau Pangeran Arya Carbon tahun 1720, penamaan Sunyaragi berasal dari kata Sunya yang artinya “Sepi” dan Ragi yang artinya “Raga” versi Carub Nagari.</p><br></br>
+        <p style="text-align: justify">Bisa diartikan jika Gua Sunyaragi merupakan tempat bagi para raja untuk bermeditasi, menenangkan atau mengendalikan raga.</p>
+    </string>
+
+    <string name="masjidagung">
+        <p style="text-align: justify">Masjid Agung Sang Pencipta Rasa yang dibangun atas perintah Sunan Gunung Jati, dan diarsiteki Sunan Kalijaga itu, hingga kini masih terawat dengan baik.</p><br></br>
+        <p style="text-align: justify">Masjid ini bermakna keagungan sang pencipta yang dibangun dengan rasa. Ini bukti sejarah peradaban Islam yang didirikan pada tahun 1408 Zaman Wali Songo Sunan Gunung Jati.</p><br></br>
+        <p style="text-align: justify">Arsitektur bangunan memiliki ciri khas berupa satu gerbang pintu utama, dan pintu lainnya, serta pagar terbuat dari bata merah. Beberapa bagian di dalam dan bagian atap, hinggga kini masih terawat dengan baik.</p>
+    </string>
+
+    <string name="gerejabundamaria">
+        <p style="text-align: justify">Gereja Katholik Paroki Bunda Maria merupakan gereja katholik yang terletak di Jalan Dukuh Semar Kota Cirebon. Gereja ini menyediakan tempat ibadah umat-umat kristiani untuk ibadah rutin minggu pagi - sore - malam, ibadah misa, Paskah, kamis putih, baptis (pembaptisan), Natal hingga Jumat Agung.</p><br></br>
+        <p style="text-align: justify">Gereja ini memiliki ciri khas bangunan yang sejuk dengan sejarah gereja di Kota Cirebon yang kuat sehingga menjadi tempat ibadah bagi umat Kristen Kota Cirebon.</p><br></br>
+        <p style="text-align: justify">Selain itu gereja ini memiliki taman doa yang sangat luas dan memiliki suasana sunyi serta tertata rapih oleh lukisan-lukisan dan beberapa tanaman sehingga tampak sejuk dan menenangkan hati.</p>
+    </string>
+
+    <string name="viharadewiwelasasih">
+        <p>Vihara atau Kelenteng Dewi Welas Asih (Kwan Im) terletak di sebelah gedung Bank Mandiri dan di seberang gedung BAT, atau tepatnya di Jl Kantor No 2. Vihara ini diperkirakan berdiri tahun 1595 dan termasuk dalam benda cagar budaya.</p><br></br>
+        <p>Vihara Welas Asih boleh jadi merupakan salah satu ikon di Kota Cirebon yang jarang diketahui. Tidak hanya dijadikan sebagai rumah peribadatan, tetapi juga kerap dijadikan destinasi rohani saat perayaan Imlek dan Cap Go Meh tiba.</p><br></br>
+        <p>Memiliki usia setengah abad, tempat suci bagi umat Konghuchu di Kota Udang tersebut ternyata menyimpan keunikan melalui ornamen yang menghiasi setiap sudutnya. Tak sampai di situ, disebutkan juga bahwa Vihara Welas Asih juga merupakan simbol nilai toleransi yang kuat di Kota Cirebon.</p>
+    </string>
+
+    <string name="empalgentong">
+        <p>Empal Gentong merupakan makanan khas cirebon yang dibuat dengan berbagai macam rempah-rempah.Kuliner khas daging sapi ini merupakan kuliner wajib dan menjadi keseharian warga Cirebon Jawa Barat. Tak hanya gerai pinggir jalan atau kios rumah makan, empal gentong Cirebon juga dijual oleh pedagang keliling, yang menjadikannya identitas kuliner Cirebon selama puluhan tahun.</p><br></br>
+        <p>Dengan bahan utama daging sapi, idealnya makanan ini disajikan dengan kerupuk kulit sapi, ditaburi daun kucai, daun bawang, bawang goreng dan sedikit seledri kering. Pembeli wajib memilih memakannya dengan lontong atau nasi putih supaya bisa merasakan cita rasa empal gentong yang sesungguhnya.</p><br></br>
+        <p>Hidangan ini bisa banyak ditemukan di sepanjang Jalan Raya Plered. Seperti Empal Gentong Krucuk, Hj. Dian, H. Apud, Amarta, dan yang lainnya.</p>
+    </string>
+
+    <string name="docang">
+        <p>Docang juga salah satu hidangan berkuah khas Cirebon yang memiliki rasa unik. Docang terdiri dari lontong, kemudian dicampur daun singkong, tauge, parutan kelapa, kerupuk, dan sambal docang yang khas.</p><br></br>
+        <p>Semua komponen itu kemudian disiramkan kuah panas yang diolah dari bumbu rempah pilihan, tempe bungkil atau oncom.</p><br></br>
+        <p>Sajian ini banyak ditemuka di Cirebon, tapi yang terkenal adalah Docang Khas Cirebon Ibu Wiwi, Jalan Ksatria Nomor 95, Cirebon. Selain itu juga ada Docang Pa Kumis di Jalan Tentara Pelajar, Pekiringan, Kesambi, Kota Cirebon.</p>
+    </string>
+
+    <string name="nasilengko">
+        <p>Kalau sajian satu ini berbahan dasar nasi, sebutannya nasi lengko. Hidangan ini merupakan nasi hangat yang diberi dengan potongan tahu, tempe, mentimun cacah, dan tauge rebus. Lalu disiram saus kacang tauco yang khas, membuatnya makin nikmat. Tambah nikmat lagi, lengko disantap bersama tahu dan tempe yang tidak terlalu matang kering.</p><br></br>
+        <p>Selain itu sebagai pelengkap, nasi lengko juga disajikan dengan irisan daun kucai, kecap, dan taburan bawang goreng. Kamu bisa coba nasi ini di berbagai gerai empal gentong, tapi juga bisa dinikmati di Jalan Suryanegara ada Nasi Lengko Pagonan, dan yang lainnya.</p>
+    </string>
+
+    <string name="tahugejrot">
+        <p>Tahu gejrot merupakan kuliner asli dari daerah Ciledug, Kabupaten Cirebon. Kuliner ini berbahan dasar tahu goreng yang dipotong kecil dan disiram dengan bumbu kuah berwarna coklat. Bumbu kuah terdiri dari kuah cuka, gula, cabai, dan bawang merah.</p><br></br>
+        <p>Menemukan penjual tahu gejrot di Cirebon tidak terlalu sulit, karena hampir disetiap pojok kota mudah ditemukan. Namun satu dari ribuan penjual yang terkenal yaitu tahu gejrot Pak Wardi di pertigaan Pecinan, Pasar Kanoman, Kota Cirebon paling banyak diburu.</p>
+    </string>
+
+    <string name="satekalong">
+        <p>Sate kalong adalah makanan khas Cirebon. Sate ini terbuat dari daging kerbau yang dihaluskan dengan cara ditumbuk.Rasanya manis, hampir seperti dendeng.</p><br></br>
+        <p>Disebut Sate Kalong karena, Penjual sate ini hanya keluar pada saat sore hari (seperti kalong yang keluar pada saat matahari hampir tenggelam) dan berjualan sepanjang malam. Kekhasan penjualnya juga, mereka mengantungkan genta (klenengan) sapi pada pikulannya. Sehingga bila mereka berjalan akan terdengar bunyi genta sapi itu.</p>
+    </string>
+
+    <string name="babout">About</string>
+    <string name="bexit">Exit</string>
+    <string name="about">About The Application</string>
+    <string name="judul">KEUNIKAN KHAS KOTA <br>CIREBON</br></string>
+    <string name="biodata">Created By: <br></br> Sugiono Kurniawan <br></br> Computer Science <br></br> Binus Bandung <br></br> 2301855734 <br></br> LB01 </string>
+    <string name="finalproject">Final Project Mobile Object Oriented Programming</string>
+    <string name="btnbck">BACK</string>
+
+</resources>
